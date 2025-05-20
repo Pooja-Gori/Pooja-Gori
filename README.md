@@ -64,18 +64,18 @@ Here’s what I’m working on 👇
 ---
 
 ### 🚀 Portfolio
+###### [view full](https://github.com/Pooja-Gori/Pooja-Gori/blob/main/Index.md) 
 
-#### 🔧 Templates
-- [template-rag-pdf-chatbot](https://github.com/poojagori/template-rag-pdf-chatbot): Plug-and-play chatbot for PDFs using RAG
-- [template-ai-content-rewriter](...) : Coming Soon...
-
-#### 📦 Projects
-- [youtube-idea-generator](...): Scrapes comments + suggests ideas using LLM
-
-#### 🧪 Labs & Experiments
-- [lab-multiagent-routing](...): CrewAI experiment for dynamic task routing
-[click here for full portfolio](https://github.com/Pooja-Gori/Pooja-Gori/blob/main/Index.md)
-
+  ##### 🔧 Templates
+  - [template-rag-pdf-chatbot](https://github.com/poojagori/template-rag-pdf-chatbot): Plug-and-play chatbot for PDFs using RAG
+  - [template-ai-content-rewriter](...) : Coming Soon...
+  
+  ##### 📦 Projects
+  - [youtube-idea-generator](...): Scrapes comments + suggests ideas using LLM
+  
+  ##### 🧪 Labs & Experiments
+  - [lab-multiagent-routing](...): CrewAI experiment for dynamic task routing
+  
 ---
 
 ![Pooja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
