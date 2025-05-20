@@ -35,10 +35,13 @@ Here are some ideas to get you started:
 ### 🔥 Featured Projects
 Here’s what I’m working on 👇
 
+- [📄 Template: PDF Chatbot with RAG (LangChain + Chroma)](https://github.com/yourusername/template-rag-pdf-chatbot)
+<!--
 - [🔍 YouTube Comment Analyzer + Idea Generator](https://github.com/yourusername/youtube-idea-generator)
 - [📄 Template: PDF Chatbot with RAG (LangChain + Chroma)](https://github.com/yourusername/template-rag-pdf-chatbot)
 - [🤖 CrewAI Labs – Multi-Agent Experiments](https://github.com/yourusername/genai-multiagent-lab)
 - [📂 AI Tools Collection (Scripts, Utilities, Playgrounds)](https://github.com/yourusername/genai-utils)
+--> 
 
 ---
 
